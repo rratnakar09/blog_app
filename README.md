@@ -11,7 +11,7 @@ I have used
 I have deployed this app on Heroku </br>
 URL: https://myblogapp09.herokuapp.com
 
-Issue: The app is not populating the profile picture. I have used AWS to store profile picture.
+Issue: The app is not populating the profile picture. I have used AWS to store profile picture. I will fix this issue soon.
 
 ## Resources and tutorials:</br>
 Django Tutorials by Corey Schafer </br>
